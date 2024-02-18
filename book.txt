@@ -1,0 +1,7 @@
+deneme,hc,1990,998
+deneme4,akbank,1002,21231231
+deneme2,deneme2,asdasd,q2weqwe
+deneme3,asdas,dasd,asd
+deneme2,deneme,deneme2,deneme2
+deneme2,deneme2,deneme2,deneme2
+deneme2,deneme2,deneme2,deneme2
