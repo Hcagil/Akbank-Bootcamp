@@ -1,5 +1,14 @@
 import os
 
+"""
+=======================================================================================================================
+Author: Hayrullah Cagil
+Date: 2024-02-18
+Description: A simple library management system that allows the user to list, add, and remove books from the library.
+=======================================================================================================================
+"""
+
+
 
 class Library:
     def __init__(self):
